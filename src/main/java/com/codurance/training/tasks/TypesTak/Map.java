@@ -13,7 +13,7 @@ public class Map {
     public Map(Map<String, List<Task>> value){
         this.value=value;}
 
-    public Map<String, List<Task>> getTaskMap(){
+    public Map<String, List<Task>> getMap(){
         return value;
         }
 
